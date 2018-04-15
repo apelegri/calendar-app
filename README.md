@@ -1,4 +1,4 @@
-# Vue, sipmle state management - Calendar App 
+# Vue, simple state management - Calendar App 
 
 1. Ensure you have `npm` installed.
 
